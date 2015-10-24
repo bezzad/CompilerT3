@@ -1,0 +1,20 @@
+E:\Compiler T3\Compiler T3\bin\Debug\Compiler T3.exe
+E:\Compiler T3\Compiler T3\bin\Debug\Compiler T3.pdb
+E:\Compiler T3\Compiler T3\obj\Debug\ResolveAssemblyReference.cache
+E:\Compiler T3\Compiler T3\obj\Debug\Compiler_T3.MainForm.resources
+E:\Compiler T3\Compiler T3\obj\Debug\Compiler_T3.Properties.Resources.resources
+E:\Compiler T3\Compiler T3\obj\Debug\Compiler T3.csproj.GenerateResource.Cache
+E:\Compiler T3\Compiler T3\obj\Debug\Compiler T3.exe
+E:\Compiler T3\Compiler T3\obj\Debug\Compiler T3.pdb
+E:\Compiler T3\Compiler T3\obj\Debug\Compiler_T3.Splash.resources
+E:\Compiler T3\Compiler T3\obj\Debug\Compiler_T3.About.resources
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\obj\Debug\Compiler T3.exe
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\obj\Debug\Compiler T3.pdb
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\bin\Debug\Compiler T3.exe
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\bin\Debug\Compiler T3.pdb
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\obj\Debug\ResolveAssemblyReference.cache
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\obj\Debug\Compiler_T3.About.resources
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\obj\Debug\Compiler_T3.MainForm.resources
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\obj\Debug\Compiler_T3.Properties.Resources.resources
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\obj\Debug\Compiler_T3.Splash.resources
+E:\Education\Visual Studio Code\My Programs\Compiler T3\Compiler T3\obj\Debug\Compiler T3.csproj.GenerateResource.Cache

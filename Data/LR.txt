@@ -1,0 +1,10 @@
+S -> W A B;
+S -> A B C S;
+A -> B;
+A -> W B;
+B -> ɛ;
+B -> y B;
+C -> z;
+W -> x;
+D -> B A f W;
+E -> B C f W;

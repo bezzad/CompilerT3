@@ -1,0 +1,11 @@
+E -> T R;
+R -> + T R;
+R -> - T R;
+R -> ɛ;
+T -> F P;
+P -> * F P;
+P -> / F P;
+P -> ɛ;
+F -> id;
+F -> num;
+F -> ( E );
